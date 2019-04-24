@@ -1,21 +1,11 @@
 # Fileread
 
-**TODO: Add description**
+To run the the project
 
-## Installation
+Download the folder
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `fileread` to your list of dependencies in `mix.exs`:
+Run the project in iex mix
 
-```elixir
-def deps do
-  [
-    {:fileread, "~> 0.1.0"}
-  ]
-end
-```
+Run The following command
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/fileread](https://hexdocs.pm/fileread).
-
+  Fileread.by_line("_path of file_")
